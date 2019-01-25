@@ -1,4 +1,4 @@
-var greeting = "Hello, everybody!";
+var greeting = "Hello";
 
 var specialGuest = "Neil deGrasse Tyson"
 
@@ -8,4 +8,3 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
-'Hello, '+ greetSpecialGuest + '!'
